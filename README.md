@@ -40,7 +40,7 @@ Our model successfully predicts potential fraudulent healthcare providers based 
 
 ## Visualizations and Report
 
-For detailed visualizations and further insights, refer to the attached 📄 [PDF Report](link_to_your_pdf_file.pdf).
+For detailed visualizations and further insights, refer to the attached 📄 [PDF Report](Fraud.pptx.pdf).
 
 Feel free to explore the 📓 Jupyter Notebook files in this repository for detailed code implementations and visualizations.
 
